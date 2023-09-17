@@ -1,6 +1,6 @@
 # Simple Bank Project
 
-![Build Status](https://github.com/jasonliuhe/simpleBank/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/jasonliuhe/simpleBank/actions/workflows/ci.yml/badge.svg)
 ![Go Version](https://img.shields.io/github/go-mod/go-version/jasonliuhe/simpleBank)
 
 ## Overview
