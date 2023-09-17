@@ -1,8 +1,7 @@
 # Simple Bank Project
 
-![Project Logo/Image (if applicable)](image-url-here)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Build Status](https://github.com/YOUR-REPO-NAME/workflows/CI/badge.svg)](https://github.com//jasonliuhe/simpleBank/actions)
+![Go Version](https://img.shields.io/github/go-mod/go-version/jasonliuhe/simpleBank)
 
 ## Overview
 
