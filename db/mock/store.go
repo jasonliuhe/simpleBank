@@ -23,6 +23,11 @@ type MockStore struct {
 	recorder *MockStoreMockRecorder
 }
 
+// UpdateUser implements db.Store.
+func (*MockStore) UpdateUser(ctx context.Context, arg db.UpdateUserParams) (db.User, error) {
+	panic("unimplemented")
+}
+
 // MockStoreMockRecorder is the mock recorder for MockStore.
 type MockStoreMockRecorder struct {
 	mock *MockStore
